@@ -1,0 +1,4 @@
+1,Milky Bar,10,100
+2,Dairy Milk,20,240
+3,cake,350,0
+4,chocolate,1,400
